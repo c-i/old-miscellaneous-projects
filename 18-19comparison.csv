@@ -1,0 +1,10 @@
+Home,Away,Home Mean,Away Mean,Home Median,Away Median,Home Mode,Away Mode
+Arsenal,Man City,1.16651,1.83394,1.0,2.0,[1],[1]
+Southampton,Burnley,1.48363,0.92312,1.0,1.0,[1],[0]
+Liverpool,West Ham,1.9954,1.16294,2.0,1.0,[1],[1]
+Watford,Brighton,1.54357,0.91618,1.0,1.0,[1],[0]
+Fulham,Crystal Palace,1.69904,1.21519,2.0,1.0,[1],[1]
+Bournemouth,Cardiff,1.6229,1.2399,1.0,1.0,[1],[1]
+Huddersfield,Chelsea,1.28043,1.23038,1.0,1.0,[1],[1]
+Newcastle,Tottenham,1.5908,2.19699,1.0,2.0,[1],[2]
+Man United,Leicester,2.50451,0.75442,2.0,1.0,[2],[0]
