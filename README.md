@@ -1,4 +1,4 @@
-# old
+# old projects
 A couple of small personal projects I worked on in 2020-2021.  These are quite amateurish.
 
 1. (2020) Using Poisson distributions to predict the outcomes of Premier League football matches.  Probably incorrectly implemented, but was my first exposure to loading/dumping data from/to CSV files and creating a CLI tool in Python.  My first "real" program in Python.
